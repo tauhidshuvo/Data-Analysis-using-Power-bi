@@ -110,6 +110,7 @@ Tooltip Page:
 
 Compact, quick insights shown when hovering over charts/cards
 
+![Tooltip](Adventure%20Works%20project/tooltip.png)
 
 
 # 📈 Key Insights

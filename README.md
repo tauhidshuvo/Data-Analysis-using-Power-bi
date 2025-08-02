@@ -55,7 +55,8 @@ Tooltip Page: Shows quick insights when hovering
 
 Drillthrough Page (Top Products): Product-wise sales details and pricing impact on profit
 
-![Adventure Works Executive Dashboard](Adventure%20Works%20excutive%20dashboard.png)
+![Adventure Works Executive Dashboard](Adventure%20Works%20project/Adventure%20Works%20excutive%20dashboard.png)
+
 
 # 2️⃣ Territory Analysis
 Map Visual: Shows sales revenue by geographic location (countries)

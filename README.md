@@ -63,6 +63,9 @@ Map Visual: Shows sales revenue by geographic location (countries)
 
 Bar/Column Charts: Compare total revenue by country and region
 
+![Territory Analysis](Adventure%20Works%20project/Teritory%20Analysis.png)
+
+
 # 3️⃣ Customer Analysis
 KPIs:
 
@@ -80,10 +83,16 @@ Trendline Chart: Monthly new customer growth
 
 Top Customers: Highest contributing individuals
 
+![Customer Analysis](Adventure%20Works%20project/custormer%20Analysis.png)
+
+
 # 4️⃣ Time-Based Performance Page
 Running Totals and Averages:
 
 Yearly, Monthly, and 3-Month Intervals
+
+![Running Total](Adventure%20Works%20project/Running%20total.png)
+
 
 Line and Column Charts
 
@@ -94,9 +103,14 @@ View detailed sales and profit impact for each selected product from other visua
 
 Dynamic filters based on user selection
 
+![Product Analysis](Adventure%20Works%20project/Product%20analysis.png)
+
+
 Tooltip Page:
 
 Compact, quick insights shown when hovering over charts/cards
+
+
 
 # 📈 Key Insights
 Identified top 10 high-performing products by revenue and quantity

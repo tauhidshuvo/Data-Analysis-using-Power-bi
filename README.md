@@ -217,4 +217,98 @@ Enabled churn prediction modeling and re-engagement strategy planning
 
 Improved ROI by identifying high-value cohorts worth targeting
 
+# 🏨 Hospitality Management Dashboard
+# 🔍 Project Overview
+This Power BI project analyzes booking and revenue performance for a hospitality business. It provides a high-level executive view of key KPIs, customer trends, cancellation behaviors, and revenue forecasting. The dashboard supports data-driven decision-making for hotel operations, marketing, and revenue management teams.
 
+# 🛠 Tools & Technologies
+Power BI Desktop
+
+DAX for calculations & forecasting
+
+Tooltip Pages & Drilldowns
+
+Time Intelligence & Forecasting Models
+
+# 🗂 Data Preparation & Modeling
+Cleaned and transformed booking, customer, and revenue data
+
+Built relationships between fact tables (bookings, cancellations) and dimensions (date, room type, distribution channel)
+
+Created calculated columns and DAX measures for:
+
+Revenue Loss
+
+Cancellation Rate
+
+Lead Time
+
+Forecasts (3-month prediction)
+
+# 📊 Dashboard Sections
+1️⃣ Executive KPIs
+Total Bookings
+
+Total Revenue
+
+Total Revenue Loss (due to cancellations)
+
+Cancellation Rate (%)
+
+These KPIs give a quick snapshot of overall business health.
+
+2️⃣ Monthly Customer Trendline with Forecast
+Line Chart showing total customers by month
+
+Integrated Power BI Forecasting to predict next 3 months
+
+Added Tooltip on hover with:
+
+Average Cancellation Rate
+
+Monthly Total Revenue
+
+Revenue Loss
+
+3️⃣ Room Rate & Lead Time by Customer Group
+Clustered Bar Chart showing:
+
+Average Room Rate
+
+Average Lead Time (days booked in advance)
+
+Grouped by two customer segments (e.g., corporate vs. individual)
+
+4️⃣ Distribution Channel Performance Matrix
+Matrix visual compares:
+
+Customer Volume by Channel
+
+Cancellation Rate (%)
+
+Total Revenue Loss
+
+Revenue Contribution
+
+Helps identify which channels are most effective or risky (e.g., high cancellations).
+
+![Hospitality Management](Hospitality%20Management/hospitality%20manage%20ment.png)
+
+
+# 📌 Key Insights
+High cancellation rates from specific channels causing revenue leakage
+
+Forecast shows customer volume may dip in upcoming months — need proactive marketing
+
+Certain customer groups book earlier but also cancel more frequently
+
+Room rate and lead time vary significantly by customer segment — useful for targeted pricing
+
+# 🎯 Business Impact
+Enabled hotel managers to understand and act on booking trends
+
+Improved visibility into revenue risks due to cancellations
+
+Supported strategic planning for channel partnerships and seasonal pricing
+
+Provided forecast-backed decisions for marketing and inventory control

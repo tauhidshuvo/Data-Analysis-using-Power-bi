@@ -159,6 +159,7 @@ Monthly Retention & Churn Rates
 
 Created a date table and established relationships with sales and customer data for time intelligence
 
+![Cohort Measurement](Cohort%20analysis/cohort%20measurement.png)
 
 
 # 📊 Dashboard Sections
@@ -196,6 +197,9 @@ Recovered Customers
 Retained Customers
 
 Helps visualize customer lifecycle trends month over month
+
+![Cohort Analysis](Cohort%20analysis/Cohort%20Analysis.png)
+
 
 # 📌 Key Insights
 Identified critical churn points where most customers drop off

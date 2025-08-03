@@ -130,3 +130,87 @@ Helped stakeholders quickly grasp overall performance through the executive view
 Provided granular insights for product managers and sales strategists
 
 Enabled data-driven decision-making on pricing, customer targeting, and territory focus
+
+# 📈 Cohort Analysis Dashboard
+# 🔍 Project Overview
+This Power BI project focuses on Cohort Analysis to track customer retention, churn, and recovery over time. The dashboard helps stakeholders identify behavioral trends, evaluate retention strategies, and assess churn risks. Cohort analysis groups customers based on their first purchase month and tracks their performance across future months.
+
+# 🛠 Tools & Technologies
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Power Query
+
+Cohort Modeling Techniques
+
+# 🗂 Data Preparation & Modeling
+Grouped customers by their first purchase month to create cohorts
+
+Calculated key metrics using DAX:
+
+Retained Customers
+
+Churned Customers
+
+Recovered Customers
+
+Monthly Retention & Churn Rates
+
+Created a date table and established relationships with sales and customer data for time intelligence
+
+
+
+# 📊 Dashboard Sections
+# 🧮 Cohort Matrix Table
+Displayed customer retention and churn performance over time
+
+Columns: Months after first purchase
+
+Rows: Cohort (Customer start month)
+
+Metrics in matrix:
+
+Retention Rate (%)
+
+Churned Customers
+
+Churn Rate (%)
+
+# 📊 Clustered Bar Chart
+Compared the volume of:
+
+New Customers (First-time)
+
+Recovered Customers (Previously churned, now active)
+
+Released Customers (Churned in current month)
+
+# 📈 Monthly Trendline
+Line chart comparing:
+
+New Customers
+
+Recovered Customers
+
+Retained Customers
+
+Helps visualize customer lifecycle trends month over month
+
+# 📌 Key Insights
+Identified critical churn points where most customers drop off
+
+Recovered customer spikes aligned with specific campaigns or offers
+
+Cohorts with stronger first-month engagement showed higher long-term retention
+
+Seasonal patterns affected customer acquisition and churn behavior
+
+# 🎯 Business Impact
+Empowered marketing and CX teams with clear customer retention metrics
+
+Enabled churn prediction modeling and re-engagement strategy planning
+
+Improved ROI by identifying high-value cohorts worth targeting
+
+

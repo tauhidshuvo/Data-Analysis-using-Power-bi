@@ -1,5 +1,5 @@
 # Data-Analysis-using-Power-bi
-# 🧭 Adventure Works Sales Dashboard Project
+# Adventure Works Sales Dashboard Project
 # 🔍 Project Overview
 This Power BI project analyzes the Adventure Works sales dataset to provide actionable insights for executives, sales teams, and marketers. The dashboard focuses on sales performance, product returns, customer demographics, and regional sales distribution. It utilizes data modeling best practices (Star and Snowflake schema) and advanced Power BI features like drillthrough pages, tooltips, DAX measures, and trend analysis.
 
